@@ -1,2 +1,2 @@
 # python_challenge
-repo for python homework
+repo for python challenge
